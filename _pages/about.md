@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.ff.cuni.cz/home/'>Charles University, Faculty of Arts</a>
+subtitle: PhD student at <a href='https://www.ff.cuni.cz/home/'>Charles University, Faculty of Arts</a>
 
 profile:
   align: right
-  image: .jpg
+  image: 
   image_circular: false # crops the image to make it circular
   address: >
     <p>555 your office number</p>
