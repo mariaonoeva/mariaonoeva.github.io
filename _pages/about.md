@@ -2,14 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD student at <a href='https://www.ff.cuni.cz/home/'>Charles University, Faculty of Arts</a> (Prague, Czechia)
+subtitle: PhD student at <a href='https://www.ff.cuni.cz/home/'>Charles University, Faculty of Arts</a>
 
 profile:
   align: right
-  image: IMG_1476.HEIC
+  image: # IMG_1476.HEIC
   image_circular: false # crops the image to make it circular
   address: >
-    <p>onoevam@ff.cuni.cz</p>
+    <p>location: Prague, Czechia </p>
+    <p>mail: onoevam@ff.cuni.cz</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
