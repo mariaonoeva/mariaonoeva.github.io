@@ -9,7 +9,7 @@ profile:
   image: # IMG_1476.HEIC
   image_circular: false # crops the image to make it circular
   address: >
-    <p>location: Prague, Czechia </p>
+    <p> Prague, Czechia </p>
     <p>mail: onoevam@ff.cuni.cz</p>
 
 news: true  # includes a list of news items
