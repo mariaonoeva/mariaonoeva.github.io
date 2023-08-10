@@ -6,11 +6,11 @@ subtitle: PhD student at <a href='https://www.ff.cuni.cz/home/'>Charles Universi
 
 profile:
   align: right
-  image: /Users/maria.onoeva/Desktop/new_folder/GitHub/mariaonoeva/IMG_1476.HEIC
+  image: IMG_1476.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p> Prague, Czechia </p>
-    <p>mail: onoevam@ff.cuni.cz</p>
+    <p> onoevam@ff.cuni.cz</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
