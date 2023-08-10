@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD student at <a href='https://www.ff.cuni.cz/home/'>Charles University, Faculty of Arts</a>
+subtitle: PhD student in linguistics at <a href='https://www.ff.cuni.cz/home/'>Charles University, Faculty of Arts</a>
 
 profile:
   align: right
