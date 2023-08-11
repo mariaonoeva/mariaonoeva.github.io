@@ -6,7 +6,7 @@ subtitle: PhD student in linguistics
 
 profile:
   align: right
-  image: IMG_1476.jpg
+  image: me.jpg
   image_circular: true # crops the image to make it circular
   address: >
     <p> Prague, Czechia </p>
