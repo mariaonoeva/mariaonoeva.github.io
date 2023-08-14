@@ -1,61 +1,82 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Maria Onoeva",
+    "label": "PhD student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "onoevam@ff.cuni.cz",
+    "phone": "",
+    "url": "https://mariaonoeva.github.io/",
+    "summary": "A PhD student in General Linguistics at the Charles University in Prague",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Prague",
+      "countryCode": "Cz",
+      "region": ""
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "Institute of Czech Language and Theory of Comunication, CUNI",
+      "position": "Research assistant",
+      "url": "https://ucjtk.ff.cuni.cz/en/about-the-institute/",
+      "startDate": "2021-10-01",
+      "endDate": "",
+      "summary": "",
       "highlights": [
-        "Relativity"
+        "Polar Questions", "Russian", "Negation", "Particles"
       ]
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Charles University, Czechia",
+      "url": "https://cuni.cz/UKEN-1.html",
+      "area": "General Linguistics",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "startDate": "2021-09",
+      "endDate": "one day",
       "score": "",
       "courses": [
-        "Theory of Relativity"
+        ""
       ]
+    },
+    {
+      "institution": "Masaryk University (MUNI), Czechia",
+      "url": "https://www.phil.muni.cz/en",
+      "area": "General Linguistics",
+      "studyType": "Master of Philology (in Czech)",
+      "startDate": "2019-01",
+      "endDate": "2021-09",
+      "score": "",
+      "thesis": "Inferential behavior of degree achievements: an experimental study"
+    },
+
+    {
+      "institution": "Masaryk University (MUNI), Czechia",
+      "url": "https://www.phil.muni.cz/en",
+      "area": "General Linguistics",
+      "studyType": "Bachelor of Philology (in Czech)",
+      "startDate": "2015-09",
+      "endDate": "2019-01",
+      "score": "",
+      "thesis": "Semantics of Classifiers: An Experimental Study"
     }
   ],
-  "awards": [
+  "awards/scholarships": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "MUNI scholarship for gifted students from third countries",
+      "date": "2019",
+      "awarder": "Masaryk University",
+      "summary": "I just had good grades and a third country passport :sweat_smile:"
     }
   ],
   "certificates": [],
@@ -63,15 +84,25 @@
   "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "Russian",
       "fluency": "Native speaker"
     },
     {
       "language": "English",
       "fluency": "Fluent"
+    }, 
+    {
+      "language": "Czech",
+      "fluency": "Fluent"
+    }, 
+    {
+      "language": "German",
+      "fluency": "On my way to fluency"
     }
   ],
-  "interests": [],
+  "interests": [
+    {"Chess"}
+  ],
   "references": [],
   "projects": []
 }
