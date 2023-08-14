@@ -31,7 +31,7 @@ Maria, Маша, Maruška, ~~Mariia~~.
 
 I'm :sparkles: almost :sparkles: a third year PhD student in General Linguistics and a research assistant at the <a href='https://www.ff.cuni.cz/home/'>Charles University</a> . I explore semantics and pragmatics of polar questions with the main focus on Russian and other Slavic laguages. My research is a part of the [QueSlav project](https://www.radeksimik.eu/minilab.html). The person who navigates me through my studies (aka my advisor) is [Radek Šimík](https://www.radeksimik.eu/personalia.html).     
 
-I got my BA and MA degrees in General Linguistics from the Masaryk University in Brno. My first language is Russian and I'm also kind of fluent in English and Czech. 
+You'll find more info about me invistigating this page :mag:
 
 {::comment} 
 The goal is to finish my PhD thesis until 30 y.o. I'll keep you posted. 
