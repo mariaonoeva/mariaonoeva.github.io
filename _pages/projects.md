@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of my projects. _THIS PAGE IS UNDER DEVELOPMENT._
+description: A growing collection of my projects. THIS PAGE IS UNDER DEVELOPMENT.
 nav: true
 nav_order: 2
 display_categories: [work, fun]
