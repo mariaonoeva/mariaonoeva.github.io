@@ -25,13 +25,9 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 {:/comment} 
 
-__THIS PAGE IS UNDER DEVELOPMENT__
-
 Maria, Маша, Maruška, ~~Mariia~~. 
 
 I'm :sparkles: almost :sparkles: a third year PhD student in General Linguistics and a research assistant at the <a href='https://www.ff.cuni.cz/home/'>Charles University</a> . I explore semantics and pragmatics of polar questions with the main focus on Russian and other Slavic laguages. My research is a part of the [QueSlav project](https://www.radeksimik.eu/minilab.html). The person who navigates me through my studies (aka my advisor) is [Radek Šimík](https://www.radeksimik.eu/personalia.html).     
-
-You'll find more info about me invistigating this page :mag:
 
 {::comment} 
 The goal is to finish my PhD thesis until 30 y.o. I'll keep you posted. 

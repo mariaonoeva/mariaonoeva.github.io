@@ -2,7 +2,7 @@
 layout: page
 title: Deutsch  
 description: Ich mag Deutsch! 
-img: assets/img/chess.png
+img: assets/img/IMG_3983.jpg
 importance: 3
 category: fun
 giscus_comments: true
