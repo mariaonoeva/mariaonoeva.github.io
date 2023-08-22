@@ -6,11 +6,7 @@ description:
 nav: true
 nav_order: 1
 ---
-### Conferences 
 
-
-
-### Publications 
 <!-- _pages/publications.md -->
 
 <div class="publications">
