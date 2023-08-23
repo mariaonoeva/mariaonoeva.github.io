@@ -2,7 +2,7 @@
 layout: page
 title: Войти в айти   
 description: my IT projects 
-img: assets/img/screenshot_it.png
+img: assets/img/screenshoot_it.png
 importance: 3
 category: fun
 ---
