@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PhD!
+title: PQs
 description: some stuff about my PhD
 img: assets/img/polar_bear_Q.jpg
 importance: 1

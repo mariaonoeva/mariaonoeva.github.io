@@ -1,12 +1,21 @@
 ---
 layout: page
 title: Deutsch  
-description: Ich mag Deutsch! 
-img: assets/img/IMG_3983.jpg
+description: Spreche ich es?  
+img: assets/img/meduza3.jpg
 importance: 3
 category: fun
-giscus_comments: true
 ---
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/meduza3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    https://spacemeduza.berlin/ 
+</div>
+
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
