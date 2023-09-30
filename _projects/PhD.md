@@ -14,9 +14,9 @@ related_publications:
     </div>
 </div>
 <div class="caption">
-    It's a <i>polar</i> bear, did you get it? 
+    It's a <i>polar</i> bear, did you get it? Source: https://unsplash.com/photos/C9Ay328wHgA
 </div>
 
-So far idk what to post here, well maybe my presentations from the conferences...
+So far idk what to post here, well maybe my presentations from the conferences.
 
-1. SinFonIJA 16 slides [here](assets/pdf/SinFonIJA16_MO_RS_RuNegPQs.pdf)
+1. SinFonIJA 16 slides [here](https://github.com/mariaonoeva/mariaonoeva.github.io/blob/master/assets/pdf/SinFonIJA16_MO_RS_RuNegPQs.pdf)
