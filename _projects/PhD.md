@@ -17,6 +17,8 @@ related_publications:
     It's a <i>polar</i> bear, did you get it? Source: https://unsplash.com/photos/qQWV91TTBrE
 </div>
 
+Polar questions are questions to which you answer with either 'yes' or 'no'. People call them many names in different languages, for instance in Russian they are <i>obščie voprosy</i> which stand for 'general questions'. In Czech, it is <i>zjišťovací otázky</i> 'elicit questions' which I find curious because why only this type of questions was named this way, all questions elicit information, don't they? 
+
 So far idk what to post here, well maybe my presentations from the conferences.
 
 1. SinFonIJA 16 slides [here](https://github.com/mariaonoeva/mariaonoeva.github.io/blob/master/assets/pdf/SinFonIJA16_MO_RS_RuNegPQs.pdf)
