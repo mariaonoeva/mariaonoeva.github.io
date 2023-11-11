@@ -33,7 +33,19 @@
       "highlights": [
         "Polar Questions", "Russian", "Negation", "Particles"
       ]
+    },
+    {
+      "name": "Infosys BPO",
+      "position": "Process Executive",
+      "url": "https://www.infosysbpm.com/",
+      "startDate": "2019",
+      "endDate": "2021",
+      "summary": "The corporate job that made me join academia.",
+      "highlights": [
+        "IT Help Desk Support for Reckitt"
+      ]
     }
+
   ],
   "volunteer": [],
   "education": [
@@ -74,6 +86,27 @@
       "date": "2019",
       "awarder": "Masaryk University",
       "summary": "I just had good grades and a third country passport :)"
+    }
+  ],
+  "grants": [
+    {
+      "title": "Modelling the question-statement opposition in Slavic languages (QueSlav; Czech Science Foundation 21-31488J)",
+      "startDate": "2021",
+      "endDate": "2024",
+      "institution": "Charles University",
+      "summary": "PhD project, PI: Radek Šimík"
+    },
+    {
+      "title": "Supporting student mobility abroad - short-term stays (POINT/a/2023-1-132)",
+      "Date": "202š",
+      "institution": "Charles University", 
+      "summary": "A travel grant for EGG 2023 in Novi Sad"
+    },
+    {
+      "title": "Comparative and Typological Linguistic Research on the Categories of Degree and Number (KoTyLin; MUNI/A/1288/2020)",
+      "Date": "2021",
+      "institution": "Masaryk University", 
+      "summary": "PI: Marcin Wągiel"
     }
   ],
   "certificates": [],
