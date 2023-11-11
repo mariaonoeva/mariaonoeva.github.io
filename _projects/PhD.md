@@ -8,7 +8,7 @@ category: work
 related_publications: 
 ---
 
-PQs in the name of this section stands for **Polar Questions**, and they are the focus of my PhD reasearch. PQs are those which can be answered with either 'yes' or 'no', as *Do you like cats?* (oh yes!). Besides this question type, there are two more. **Constituent** (or wh-questions) as *What is your favorite computer game?* when a full answer is required. **Alternative** which provides you with ready-made options as in *Was 'Crime and Punishment' written by Dostoevsky or Tolstoy?* with two authors, Dostoevsky or Tolstoy, to select from. All of them are fascinating and worth studying, but here I focus on PQs. 
+'PQs' in the name of this section stands for **Polar Questions**. PQs are those which can be answered with either 'yes' or 'no', as *Do you like cats?* (oh yes!). Besides this question type, there are two more. **Constituent** (or wh-questions) as *What is your favorite computer game?* require a full answer. **Alternative** provide you with ready-made options as in *Was 'Crime and Punishment' written by Dostoevsky or Tolstoy?*, there are two authors to select from. All of them are fascinating and worth studying, but here I focus on PQs. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
