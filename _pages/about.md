@@ -29,7 +29,7 @@ Maria, Маша, Maruška, ~~Mariia~~\*.
 
 I'm a :sparkles: third :sparkles: year PhD student in General Linguistics and a research assistant at the <a href='https://www.ff.cuni.cz/home/'>Charles University</a>. I explore semantics and pragmatics of polar questions with the main focus on Russian and other Slavic languages. My research is a part of the [QueSlav project](https://www.radeksimik.eu/minilab.html). The person who navigates me through my studies (aka my advisor) is [Radek Šimík](https://www.radeksimik.eu/personalia.html).     
 
-\* *Mariia* is an 'official' spelling of my name according to the legal documents (diplomas, passport, and so on). I don't like it whatsoever, so I use *Maria* in publications. More on transliteration on Russian passports [here](https://en.wikipedia.org/wiki/Romanization_of_Russian#Transliteration_of_names_on_Russian_passports). 
+\**Mariia* is an 'official' spelling of my name according to the legal documents (diplomas, passport, and so on). I don't like it whatsoever, so I use *Maria* in publications. More about transliteration [here](https://en.wikipedia.org/wiki/Romanization_of_Russian#Transliteration_of_names_on_Russian_passports). 
 
 
 {::comment} 
