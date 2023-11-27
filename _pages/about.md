@@ -31,7 +31,6 @@ I'm a :sparkles: third :sparkles: year PhD student in General Linguistics and a 
 
 \**Mariia* is an 'official' spelling of my name on legal documents (diplomas, passport and so on). I don't like it whatsoever, so I use *Maria* in publications. More about transliteration [here](https://en.wikipedia.org/wiki/Romanization_of_Russian#Transliteration_of_names_on_Russian_passports). 
 
-
 {::comment} 
 The goal is to finish my PhD thesis until 30 y.o. I'll keep you posted. 
 {:/comment} 
