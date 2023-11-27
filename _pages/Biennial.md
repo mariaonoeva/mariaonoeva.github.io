@@ -2,14 +2,12 @@
 layout: page
 permalink: /Biennial2024/
 title: Biennial 2024
-description: A workshop on The Biennial of Czech Linguistics 2024
+description: Our workshop at The Biennial of Czech Linguistics 2024
 nav: true
 nav_order: 1
 ---
 
-# Polar (yes/no) questions: form, meaning and more
-
-We are happy to announce that our workshop on polar questions has been accepted on [The Biennial of Czech Linguistics](https://bcl2024.ff.cuni.cz/en/home/). 
+We are happy to announce that our workshop <font size= "4"> Polar (yes/no) questions: form, meaning and more </font> has been accepted for [The Biennial of Czech Linguistics](https://bcl2024.ff.cuni.cz/en/home/). 
 
 The call for papers will appear here soon. 
 
