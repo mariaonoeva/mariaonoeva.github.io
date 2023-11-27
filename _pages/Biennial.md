@@ -7,7 +7,7 @@ nav: true
 nav_order: 1
 ---
 
-We are happy to announce that our workshop <font size= "5"> Polar (yes/no) questions: form, meaning and more** </font> has been accepted for [The Biennial of Czech Linguistics](https://bcl2024.ff.cuni.cz/en/home/). 
+We are happy to announce that our workshop ***<font size= "4">Polar (yes/no) questions: form, meaning and more</font>*** has been accepted for [The Biennial of Czech Linguistics](https://bcl2024.ff.cuni.cz/en/home/). 
 
 The call for papers will appear here soon. 
 
