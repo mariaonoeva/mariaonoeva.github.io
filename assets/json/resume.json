@@ -114,7 +114,12 @@
   ],
   "certificates": [],
   "publications": [],
-  "skills": [],
+  "skills": [
+    {"name": "Text editing", 
+    "keywords": "Latex (Overleaf, VS), MS Office"}, 
+    {"name": "Programs", 
+    "keywords": "R Studio, MS Visual Studio, Praat, JabRef"}
+  ],
   "languages": [
     {
       "language": "Russian",
@@ -133,7 +138,9 @@
       "fluency": "On my way to fluency"
     }
   ],
-  "interests": [
+  "interests": [ 
+    {"name":"Free time", 
+    "keywords": "Reading, videogaming, movies, traveling -- usual stuff"}
   ],
   "references": [],
   "projects": []
