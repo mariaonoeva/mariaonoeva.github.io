@@ -44,7 +44,7 @@ This panel aims to bring together researchers who work on forms, meanings, and f
 4) How are PQs processed by speakers, as well as during language acquisition and/or learning?
 
 
-<font size= "1">
+
 References: 
 - Abels, K. (2005). “Expletive” negation in Russian: A conspiracy theory. Journal of Slavic Linguistics 1(13), 5–74.
 - AnderBois, S. (2019). Negation, alternatives, and negative polar questions in American English. In K. von Heusinger, E. Onea, & M. Zimmerman (Eds.), Questions in Discourse - volume 1: Semantics (pp. 118–171). CRISPI.
@@ -68,5 +68,5 @@ Linguistic Society (pp. 164–171). Retrieved from http://www.lel.ed.ac.uk/~bob/
 - Šimík, R. (to appear). Polar question semantics and bias: Lessons from Czech/Slavic. In B. Gehrke & R. Šimík (Eds.), Topics in the semantics of Slavic languages. Language Science Press.
 - Staňková, A. (2023). The expression of speaker's bias in Czech polar questions. Master Thesis, Charles University.
 - Sudo, Y. (2013). Biased polar questions in English and Japanese. Current Research in the Semantics/Pragmatics Interface, 28, 275–295. doi:10.1163/9789004183988_009
-</font>
+
 
