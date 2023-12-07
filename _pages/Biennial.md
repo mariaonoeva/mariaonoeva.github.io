@@ -7,7 +7,10 @@ nav: true
 nav_order: 1
 ---
 
-We are happy to announce that our workshop **<font size= "4">Polar (yes/no) questions: form, meaning and more</font>** has been accepted to [The Biennial of Czech Linguistics](https://bcl2024.ff.cuni.cz/en/home/). 
+We are happy to announce that our workshop **<font size= "4">Polar (yes/no) questions: form, meaning and more</font>** has been accepted to [The Biennial of Czech Linguistics](https://bcl2024.ff.cuni.cz/en/home/). The Biennial 2024 is the first edition of a new conference taking place at the Faculty of Arts, Charles University. The conference provides a platform for the meeting of the Czech linguistic community (and beyond) in its whole breadth – across linguistic subdisciplines, philologies, as well as theoretical and methodological paradigms. The concept builds on the model applied at the European level (the conference of [Societas Linguistica Europaea](https://societaslinguistica.eu/)) or in Germany (the conference of the [Deutsche Gesellschaft für Sprachwissenschaft](https://dgfs.de/en/)). 
+
+Here you find more information about our workshop (CfP, general description, etc.) and the conference. In case of any questions contact us at mariia.razguliaeva.1@hu-berlin.de or onoevam@ff.cuni.cz. 
+
 #### Important dates: 
 
 ~~October 1, 2023: Deadline for submission of thematic workshop proposals~~
@@ -33,12 +36,15 @@ Many different strategies of indicating PQs are observed across languages, rangi
 This panel aims to bring together researchers who work on forms, meanings, and functions of PQs in their intra- and cross-linguistic variability. We invite a diverse range of submissions that draw upon theoretical observations, experimental results, corpus research, and other relevant perspectives. The goal is to establish a productive dialog between different approaches and gain new insights into the nature of PQs. It is planned to address the following research questions (the list is not exhaustive):
 
 1) How do forms of PQs map to various facets of their meanings across languages? 
+
 2) Which contexts can be considered natural for certain PQ types? 
+
 3) How can the meaning of PQs be formalized and what predictions emerge from certain formalizations?
+
 4) How are PQs processed by speakers, as well as during language acquisition and/or learning?
 
 
-References: 
+<font size= "1">References: 
 
 Abels, K. (2005). “Expletive” negation in Russian: A conspiracy theory. Journal of Slavic Linguistics 1(13), 5–74.
 
@@ -81,5 +87,5 @@ Romero, M., & Han, C.-H. (2004). On Negative Yes/No Questions. Linguistics and P
 
 Staňková, A. (2023). The expression of speaker's bias in Czech polar questions. Master Thesis, Charles University.
 
-Sudo, Y. (2013). Biased polar questions in English and Japanese. Current Research in the Semantics/Pragmatics Interface, 28, 275–295. doi:10.1163/9789004183988_009
+Sudo, Y. (2013). Biased polar questions in English and Japanese. Current Research in the Semantics/Pragmatics Interface, 28, 275–295. doi:10.1163/9789004183988_009</font>
 
