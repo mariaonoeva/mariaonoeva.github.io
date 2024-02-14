@@ -17,9 +17,9 @@ Here you find more information about our workshop (CfP, general description, etc
 
 ~~November 17, 2023: Notification of workshop acceptance~~
 
-November 30, 2023: Call for abstracts to be issued
+~~November 30, 2023: Call for abstracts to be issued~~
 
-March 25, 2024: Deadline for submission of abstracts
+<span style="color:Tomato">**March 25, 2024: Deadline for submission of abstracts**</span>
 
 May 31, 2024: Final draft of the programme of workshops
 
