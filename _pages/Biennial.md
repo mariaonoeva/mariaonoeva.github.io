@@ -13,22 +13,24 @@ The concept of the conference builds on the model applied at the European level 
 
 Here you find more information about our workshop (CfP, general description, etc.) and the conference. In case of any questions contact us at mariia.razguliaeva.1@hu-berlin.de or onoevam@ff.cuni.cz. 
 
-|Important dates|   |
-|---|---|
-| October 1, 2023: | ~~Deadline for submission of thematic workshop proposals~~ |
-| November 17, 2023: | ~~Notification of workshop acceptance~~ |
-| November 30, 2023<br>(February 6, 2024): | ~~Call for abstracts to be issued~~ |
-| **March 25, 2024:** | **Deadline for submission of abstracts** |
-| May 31, 2024: | Final draft of the programme of workshops |
-| June 30, 2024: | Final draft programme of the Biennial |
-| September 18-20, 2024: | The Biennial of Czech Linguistics |
-
 #### Call for papers
 Here is a summarized version of the call, for more visit [the Biennial 2024 call](https://bcl2024.ff.cuni.cz/en/call/)
 - Deadline: March 25, 2024
 - Platform: [OpenReview](https://openreview.net/) (please register before submitting), [the Biennial OpenReview page](https://openreview.net/group?id=BCL/2024/Conference)
 - Template: [here](https://bcl2024.ff.cuni.cz/wp-content/uploads/sites/92/2023/12/BCL_abstract-template.docx)
 - One person can submit at most 3 abstracts to 2 workshops, all abstracts must be anonymous and in the pdf format
+
+
+| Important dates        |                                                    |
+|------------------------|----------------------------------------------------|
+| October 1, 2023:       | ~~Deadline for submission of thematic workshop proposals~~ |
+| November 17, 2023:     | ~~Notification of workshop acceptance~~            |
+| November 30, 2023:     | ~~Call for abstracts to be issued~~  |
+| February 6, 2024:      | ~~The abstract submission system has been launched.~~ |
+| **March 25, 2024:**    | **Deadline for submission of abstracts**           |
+| May 31, 2024:          | Final draft of the programme of workshops          |
+| June 30, 2024:         | Final draft programme of the Biennial              |
+| September 18-20, 2024: | The Biennial of Czech Linguistics                  |
 
 #### Workshop description 
 Questions pose a challenge for the traditional truth-conditional semantics because their meaning cannot be reduced to the truth or falsity of a proposition. Among the prominent approaches to this problem are the analyses of Hamblin (1973) and Groenendijk and Stokhof (1984) according to which a question denotes a set of propositions corresponding to its possible or true answers. In the case of polar questions (PQs), the sets contain two answers corresponding to ‘yes’ and ‘no’. However, these approaches alone do not seem to capture some question functions in language and discourse.
