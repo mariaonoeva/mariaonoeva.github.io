@@ -17,8 +17,11 @@ Here you find more information about our workshop (CfP, general description, etc
 This panel aims to bring together researchers who work on forms, meanings, and functions of PQs in their intra- and cross-linguistic variability. We invite a diverse range of submissions that draw upon theoretical observations, experimental results, corpus research, and other relevant perspectives. The goal is to establish a productive dialog between different approaches and gain new insights into the nature of PQs. It is planned to address the following research questions (the list is not exhaustive):
 
 1) How do forms of PQs map to various facets of their meanings across languages?
+
 2) Which contexts can be considered natural for certain PQ types?
+
 3) How can the meaning of PQs be formalized and what predictions emerge from certain formalizations?
+
 4) How are PQs processed by speakers, as well as during language acquisition and/or learning?
 
 
