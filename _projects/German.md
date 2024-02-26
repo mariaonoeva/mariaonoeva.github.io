@@ -17,3 +17,8 @@ category: fun
 </div>
 
 Ich werde bald etwas zu dieser Seite hinzufügen, versprochen! :stuck_out_tongue: 
+
+{% include figure.liquid loading="eager" path="assets/img/IMG_9589.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/IMG_9590.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/IMG_9599.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
+München
