@@ -7,7 +7,7 @@ nav: true
 nav_order: 1
 ---
 
-We are happy to announce that our workshop **<font size= "4">Polar (yes/no) questions: form, meaning and more</font>** has been accepted to [The Biennial of Czech Linguistics](https://bcl2024.ff.cuni.cz/en/home/). The Biennial 2024 is the first edition of a new conference taking place at the Faculty of Arts, Charles University. The concept of the conference builds on the model applied at the European level (the conference of [Societas Linguistica Europaea](https://societaslinguistica.eu/)) or in Germany (the conference of the [Deutsche Gesellschaft für Sprachwissenschaft](https://dgfs.de/en/)).
+We are happy to announce that our workshop **<font size= "4">Polar (yes/no) questions: form, meaning and more</font>** has been accepted to [The Biennial of Czech Linguistics](https://bcl2024.ff.cuni.cz/en/home/). The Biennial 2024 is the first edition of a new conference taking place at the Faculty of Arts, Charles University. The concept of the conference builds on the model applied at the European level (the conference of [Societas Linguistica Europaea](https://societaslinguistica.eu/)) or in Germany (the conference of the [Deutsche Gesellschaft für Sprachwissenschaft](https://dgfs.de/en/)). 
 
 Here you find more information about our workshop (CfP, general description, etc.) and the conference. In case of any questions contact us at mariia.razguliaeva.1@hu-berlin.de or onoevam@ff.cuni.cz. 
 
@@ -24,7 +24,16 @@ This panel aims to bring together researchers who work on forms, meanings, and f
 
 ### Invited speaker
 
-We are delighted to announce the invited speaker for our workshop -- [Tue Trinh](https://trinhhuutue.com/), a senior researcher in the ERC project Speech Acts in Grammar and Discourse (SPAGAD) / Research Area 4 'Semantics & Pragmatics' at the Leibniz-Zentrum Allgemeine Sprachwissenschaft in Berlin. Tue works on many fascinating topics in syntax, semantics and pragmatics and luckily to us contributes immensely to the polar questions discussion. In some of the recent works, Tue explores a relation between NPIs and epistemic bias [Trinh 2023](https://trinhhuutue.files.wordpress.com/2024/01/trinh-salt33-paper-final-2.pdf) or discusses the differences between Vietnamese and English polar questions [Trinh 2024](https://trinhhuutue.files.wordpress.com/2023/03/trinh2023note.pdf). The topic of the talk will be provided soon.
+<div class="container">
+  <div class="row">
+    <div class="col">
+We are delighted to announce the invited speaker for our workshop -- [Tue Trinh](https://trinhhuutue.com/), a senior researcher in the ERC project Speech Acts in Grammar and Discourse (SPAGAD) / Research Area 4 'Semantics & Pragmatics' at the Leibniz-Zentrum Allgemeine Sprachwissenschaft in Berlin. Tue works on many fascinating topics in syntax, semantics and pragmatics and, luckily for us, contributes immensely to the polar questions discussion. In some of the recent works, Tue explores a relation between NPIs and epistemic bias ([Trinh 2023](https://trinhhuutue.files.wordpress.com/2024/01/trinh-salt33-paper-final-2.pdf))or discusses the differences between Vietnamese and English polar questions ([Trinh 2024](https://trinhhuutue.files.wordpress.com/2023/03/trinh2023note.pdf)). The topic of the talk will be provided soon.
+    </div>
+    <div class="col">
+        {% include figure.html loading="eager" path="assets/img/Trinh_Tue.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+</div>
 
 ### Call for papers
 Here is a summarized version of the call, for more visit [the Biennial 2024 call](https://bcl2024.ff.cuni.cz/en/call/)
