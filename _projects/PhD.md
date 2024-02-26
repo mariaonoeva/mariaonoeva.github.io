@@ -12,17 +12,18 @@ related_publications:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/polar-bear.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/polar-bear.jpeg" title="Polar bear" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    It's a <i>polar</i> bear, did you get it? Source: https://unsplash.com/photos/qQWV91TTBrE
+    It's a <i>polar</i> bear. Source: https://unsplash.com/photos/qQWV91TTBrE
 </div>
 
-People call PQs many names in different languages. For instance in Russian, they are *obščie voprosy/общие вопросы* 'general' or 'common' questions. In Czech, it is *zjišťovací otázky* 'elicit questions', in German *Entscheidungsfrage* 'decision questions'. You see, despite PQs apparent simplicity, researches are very puzzled by these questions and after two years of investigation I know exactly why.  
+People call PQs many names in different languages. For instance in Russian, they are *obščie voprosy/общие вопросы* 'general' or 'common' questions. In Czech, it is *zjišťovací otázky* 'elicit questions', in German *Entscheidungsfrage* 'decision questions'. You see, despite PQs apparent simplicity, researches are very puzzled by these questions.  
 
 (I hope to add more on this soon.)
 
-So far idk what to post here, well maybe my presentations from the conferences.
+So far idk what to post here, well maybe the presentations from the conferences.
 
-1. SinFonIJA 16 slides [here](https://github.com/mariaonoeva/mariaonoeva.github.io/blob/master/assets/pdf/SinFonIJA16_MO_RS_RuNegPQs.pdf)
+1. [SinFonIJA 16](assets/pdf/SinFonIJA16_MO_RS_RuNegPQs.pdf)
+2. [FDSL 16](assets/pdf/FDSL16_RuNPQs_Onoeva_Simik.pdf)
