@@ -27,10 +27,10 @@ This panel aims to bring together researchers who work on forms, meanings, and f
 <div class="container">
   <div class="row">
     <div class="col">
-We are delighted to announce the invited speaker for our workshop -- [Tue Trinh](https://trinhhuutue.com/), a senior researcher in the ERC project Speech Acts in Grammar and Discourse (SPAGAD) / Research Area 4 'Semantics & Pragmatics' at the Leibniz-Zentrum Allgemeine Sprachwissenschaft in Berlin. Tue works on many fascinating topics in syntax, semantics and pragmatics and, luckily for us, contributes immensely to the polar questions discussion. In some of the recent works, Tue explores a relation between NPIs and epistemic bias ([Trinh 2023](https://trinhhuutue.files.wordpress.com/2024/01/trinh-salt33-paper-final-2.pdf))or discusses the differences between Vietnamese and English polar questions ([Trinh 2024](https://trinhhuutue.files.wordpress.com/2023/03/trinh2023note.pdf)). The topic of the talk will be provided soon.
+We are delighted to announce the invited speaker for our workshop -- <a href="https://trinhhuutue.com/">Tue Trinh</a>, a senior researcher in the ERC project Speech Acts in Grammar and Discourse (SPAGAD) / Research Area 4 'Semantics & Pragmatics' at the Leibniz-Zentrum Allgemeine Sprachwissenschaft in Berlin. Tue works on many fascinating topics in syntax, semantics and pragmatics and, luckily for us, contributes immensely to the polar questions discussion. In some of the recent works, Tue explores a relation between NPIs and epistemic bias (<a href="https://trinhhuutue.files.wordpress.com/2024/01/trinh-salt33-paper-final-2.pdf">Trinh 2023</a>) or discusses the differences between Vietnamese and English polar questions (<a href="https://trinhhuutue.files.wordpress.com/2023/03/trinh2023note.pdf">Trinh 2024</a>). The topic of the talk will be provided soon.
     </div>
     <div class="col">
-        {% include figure.html loading="eager" path="assets/img/Trinh_Tue.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html loading="eager" path="assets/img/Trinh_Tue.jpg" title="Tue Trinh (sorce: ZAS pesonal page)" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 </div>
