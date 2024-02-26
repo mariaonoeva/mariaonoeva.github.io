@@ -85,6 +85,7 @@
       "awarder": "Masaryk University",
       "summary": "I just had good grades and a third country passport :)"
     }
+    
   ],
   "grants": [
     {
@@ -116,9 +117,9 @@
   "publications": [],
   "skills": [
     {"name": "Text editing", 
-    "keywords": "Latex (Overleaf, VS), MS Office"}, 
+    "keywords": "Latex (Overleaf and locally), MS Office"}, 
     {"name": "Programs", 
-    "keywords": "R Studio, MS Visual Studio, Praat, JabRef"}
+    "keywords": "R Studio, MS Visual Studio, PyCharm, Rider, Praat, JabRef"}
   ],
   "languages": [
     {
@@ -140,7 +141,7 @@
   ],
   "interests": [ 
     {"name":"Free time", 
-    "keywords": "Reading, videogaming, movies, traveling -- usual stuff"}
+    "keywords": "Reading, videogaming, swimming, movies, traveling -- usual stuff"}
   ],
   "references": [],
   "projects": []

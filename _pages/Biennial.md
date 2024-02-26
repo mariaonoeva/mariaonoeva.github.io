@@ -30,13 +30,13 @@ This panel aims to bring together researchers who work on forms, meanings, and f
         We are delighted to announce the invited speaker for our workshop -- <a href="https://trinhhuutue.com/">Tue Trinh</a>, a senior researcher in the ERC project Speech Acts in Grammar and Discourse (SPAGAD) / Research Area 4 'Semantics & Pragmatics' at the Leibniz-Zentrum Allgemeine Sprachwissenschaft in Berlin. Tue works on many fascinating topics in syntax, semantics and pragmatics and, luckily for us, contributes immensely to the polar questions discussion. In some of the recent works, Tue explores a relation between NPIs and epistemic bias (<a href="https://trinhhuutue.files.wordpress.com/2024/01/trinh-salt33-paper-final-2.pdf">Trinh 2023</a>) or discusses the differences between Vietnamese and English polar questions (<a href="https://trinhhuutue.files.wordpress.com/2023/03/trinh2023note.pdf">Trinh 2024</a>). The topic of the talk will be provided soon.
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html loading="eager" path="assets/img/Trinh_Tue.jpg" title="Tue Trinh (sorce: ZAS pesonal page)" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html loading="eager" path="assets/img/Trinh_Tue.jpg" title="Tue Trinh (source: ZAS personal page)" class="img-fluid rounded z-depth-1" %}
     </div>
     </div>
 </div>
 
 ### Call for papers
-Here is a summarized version of the call, for more visit [the Biennial 2024 call](https://bcl2024.ff.cuni.cz/en/call/)
+Here is a summarized version of the call, for more visit [the Biennial 2024 Call](https://bcl2024.ff.cuni.cz/en/call/)
 - Deadline: March 25, 2024
 - Platform: [OpenReview](https://openreview.net/) (please register before submitting), [the Biennial OpenReview page](https://openreview.net/group?id=BCL/2024/Conference)
 - Template: [here](https://bcl2024.ff.cuni.cz/wp-content/uploads/sites/92/2023/12/BCL_abstract-template.docx)
