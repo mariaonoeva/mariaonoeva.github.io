@@ -7,7 +7,7 @@ nav: true
 nav_order: 1
 ---
 
-We are happy to announce that our workshop **<font size= "4">Polar (yes/no) questions: form, meaning and more</font>** has been accepted to [The Biennial of Czech Linguistics](https://bcl2024.ff.cuni.cz/en/home/). The Biennial 2024 is the first edition of a new conference taking place at the Faculty of Arts, Charles University on **September 17-20, 2024**. The concept of the conference builds on the model applied at the European level (the conference of [Societas Linguistica Europaea](https://societaslinguistica.eu/)) or in Germany (the conference of the [Deutsche Gesellschaft für Sprachwissenschaft](https://dgfs.de/en/)). 
+We are happy to announce that our workshop **<font size= "4">Polar (yes/no) questions: form, meaning and more</font>** has been accepted to [The Biennial of Czech Linguistics](https://bcl2024.ff.cuni.cz/en/home/). The Biennial 2024 is the first edition of a new conference taking place at the Faculty of Arts, Charles University on **September 18-20, 2024**. The concept of the conference builds on the model applied at the European level (the conference of [Societas Linguistica Europaea](https://societaslinguistica.eu/)) or in Germany (the conference of the [Deutsche Gesellschaft für Sprachwissenschaft](https://dgfs.de/en/)). 
 
 Here you find more information about our workshop (CfP, general description, etc.) and the conference. In case of any questions contact us at mariia.razguliaeva.1@hu-berlin.de or onoevam@ff.cuni.cz. 
 
