@@ -12,7 +12,7 @@ We are happy to announce that our workshop **<font size= "4">Polar (yes/no) ques
 Here you find more information about our workshop (CfP, general description, etc.) and the conference. In case of any questions contact us at mariia.razguliaeva.1@hu-berlin.de or onoevam@ff.cuni.cz. 
 
 ### Workshop description 
-This panel aims to bring together researchers who work on forms, meanings, and functions of PQs in their intra- and cross-linguistic variability. We invite a diverse range of submissions that draw upon theoretical observations, experimental results, corpus research, and other relevant perspectives. The goal is to establish a productive dialog between different approaches and gain new insights into the nature of PQs. It is planned to address the following research questions (the list is not exhaustive):
+This panel aims to bring together researchers who work on forms, meanings, and functions of polar questions (PQs) in their intra- and cross-linguistic variability. We invite a diverse range of submissions that draw upon theoretical observations, experimental results, corpus research, and other relevant perspectives. The goal is to establish a productive dialog between different approaches and gain new insights into the nature of PQs. It is planned to address the following research questions (the list is not exhaustive):
 
 1) How do forms of PQs map to various facets of their meanings across languages?
 
