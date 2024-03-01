@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /Biennial2024/
-title: Biennial 2024
+title: PQs workshop (BCL 2024)
 description: Our workshop at The Biennial of Czech Linguistics 2024
 nav: true
 nav_order: 1
