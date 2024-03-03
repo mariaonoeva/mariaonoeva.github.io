@@ -25,5 +25,5 @@ People call PQs many names in different languages. For instance in Russian, they
 
 So far idk what to post here, well maybe the presentations from the conferences.
 
-1. [SinFonIJA 16](assets/pdf/SinFonIJA16_MO_RS_RuNegPQs.pdf)
-2. [FDSL 16](assets/pdf/FDSL16_RuNPQs_Onoeva_Simik.pdf)
+1. [SinFonIJA 16](mariaonoeva.github.io/assets/pdf/SinFonIJA16_MO_RS_RuNegPQs.pdf)
+2. [FDSL 16](mariaonoeva.github.io/assets/pdf/FDSL16_RuNPQs_Onoeva_Simik.pdf)
