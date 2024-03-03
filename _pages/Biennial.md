@@ -41,7 +41,8 @@ Here is a summarized version of the call, for more visit [the Biennial 2024 Call
 - Platform: [OpenReview](https://openreview.net/) (please register before submitting), [the Biennial OpenReview page](https://openreview.net/group?id=BCL/2024/Conference)
 - Template: [here](https://bcl2024.ff.cuni.cz/wp-content/uploads/sites/92/2023/12/BCL_abstract-template.docx)
 - Our panel number: 16 
-- One person can submit at most 3 abstracts to 2 workshops, all abstracts must be anonymous and in the pdf format
+- One person can submit at most 3 abstracts to 2 workshops
+- All abstracts must be anonymous and in the pdf format
 
 | Important dates        |                                                    |
 |------------------------|----------------------------------------------------|
