@@ -89,12 +89,20 @@
   ],
   "grants": [
     {
-      "title": "Modelling the question-statement opposition in Slavic languages (QueSlav; Czech Science Foundation 21-31488J)",
+      "title": "Deconstructing Russian polar questions",
+      "url": "https://www.daad.de/en/",
+      "startDate": "2024-10",
+      "endDate": "2025-10",
+      "institution": "Humboldt University of Berlin",
+      "summary": "DAAD One-Year Grant for Doctoral Candidates, PI: me"
+    },
+    {
+      "title": "Modelling the question-statement opposition in Slavic languages (QueSlav)",
       "url": "https://www.radeksimik.eu/minilab.html",
       "startDate": "2021",
       "endDate": "2024",
       "institution": "Charles University",
-      "summary": "PhD project, PI: Radek Šimík"
+      "summary": "PhD project, PI: Radek Šimík, Czech Science Foundation 21-31488J"
     },
     {
       "title": "Supporting student mobility abroad - short-term stays (POINT/a/2023-1-132)",
