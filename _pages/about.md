@@ -27,7 +27,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 Maria, Маша, Maruška, ~~Mariia~~\*
 
-I'm a :sparkles: third :sparkles: year PhD student in General Linguistics and a research assistant at the <a href='https://www.ff.cuni.cz/home/'>Charles University</a>. I explore semantics and pragmatics of polar questions with the main focus on Russian and other Slavic languages. My research is a part of the [QueSlav project](https://www.radeksimik.eu/minilab.html). The person who navigates me through my studies (aka my advisor) is [Radek Šimík](https://www.radeksimik.eu/personalia.html).     
+I'm a :sparkles: fourth :sparkles: year PhD student in General Linguistics and a research assistant at the <a href='https://www.ff.cuni.cz/home/'>Charles University</a>. I explore semantics and pragmatics of polar questions with the main focus on Russian and other Slavic languages. My research is a part of the [QueSlav project](https://www.radeksimik.eu/minilab.html). The person who navigates me through my studies (aka my advisor) is [Radek Šimík](https://www.radeksimik.eu/personalia.html).     
 
 From August 2024 to October 2025, I'll be in Berlin thanks to a [DAAD](https://www.daad.de/en/) scholarship :v:
 
