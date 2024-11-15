@@ -24,14 +24,36 @@
   },
   "work": [
     {
-      "name": "Institute of Czech Language and Theory of Communication (CUNI)",
+      "name": "Leibniz-Zentrum Allgemeine Sprachwissenschaft",
+      "position": "Internship",
+      "url": "https://www.leibniz-zas.de/en/research/research-areas/language-development-multilingualism",
+      "startDate": "2024-10-01",
+      "endDate": "2025-02-01",
+      "summary": "",
+      "highlights": [
+        "Research area: Language Development and Multilingualism"
+      ]
+    },
+    {
+      "name": "Humboldt University of Berlin",
+      "position": "Visiting researcher",
+      "url": "https://www.slawistik.hu-berlin.de/en/home",
+      "startDate": "2024-10-01",
+      "endDate": "2025-10-01",
+      "summary": "",
+      "highlights": [
+        "Department of Slavic and Hungarian Studies"
+      ]
+    },
+    {
+      "name": "Charles University in Prague",
       "position": "Research assistant",
       "url": "https://ucjtk.ff.cuni.cz/en/about-the-institute/",
       "startDate": "2021-10-01",
-      "endDate": "",
+      "endDate": "2024-10-01",
       "summary": "",
       "highlights": [
-        "Polar Questions", "Russian", "Negation", "Particles"
+        "Institute of Czech Language and Theory of Communication"
       ]
     },
     {
@@ -40,8 +62,7 @@
       "url": "https://www.infosysbpm.com/",
       "startDate": "2019",
       "endDate": "2021",
-      "highlights": [],
-      "summary": "The corporate job that made me join academia."
+      "highlights": []
     }
 
   ],
