@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PhD seminář
-description: PhD abstract practice page
+description: PhD abstract workshop page
 img: assets/img/uk_embroid.jpg
 importance: 2
 category: work
