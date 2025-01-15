@@ -8,6 +8,8 @@ category: work
 related_publications: 
 ---
 
+{% include audio.liquid path="assets/audio/NCIs_presentation/5_1_infoGlint.wav" controls=true %}
+
 'PQs' in the name of this section stands for **Polar Questions**. PQs are those which can be answered with either 'yes' or 'no', as *Do you like cats?* (oh yes!). Besides this question type, there are two more. **Constituent** (or wh-questions) as *What is your favorite computer game?* require a full answer. **Alternative** provide you with ready-made options as in *Was 'Crime and Punishment' written by Dostoevsky or Tolstoy?*, there are two authors to select from. All of them are fascinating and worth studying, but here I focus on PQs. 
 
 <div class="row">
