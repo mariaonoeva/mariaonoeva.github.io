@@ -40,10 +40,8 @@ class="img-fluid rounded z-depth-1" %}
 "So none of them noticed that?"
 
 {% include figure.html
-path="assets/audio/NCIs_presentation/pics/11_kanat_048.pdf"
+path="assets/audio/NCIs_presentation/pics/11_kanat_048.jpg"
 title="So none of them noticed that?"
 class="img-fluid rounded z-depth-1" %}
-
-<embed src="assets/audio/NCIs_presentation/pics/11_kanat_048.pdf" width="600" height="800" type="application/pdf">
 
 {% include audio.liquid path="assets/audio/NCIs_presentation/audios/8_2_11_kanat_048.wav" controls=true %}
