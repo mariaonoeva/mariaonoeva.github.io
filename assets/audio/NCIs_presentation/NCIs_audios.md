@@ -1,6 +1,7 @@
 ---
 layout: page
 title: NCIs Audios
+permalink: /NCIs-presen/
 description: Audios for NCIs in PQs (MO&MR presentation) 
 ---
 
