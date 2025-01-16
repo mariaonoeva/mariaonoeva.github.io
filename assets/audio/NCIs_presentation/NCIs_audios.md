@@ -5,7 +5,7 @@ permalink: /NCIs-presen/
 description: Audios for NCIs in PQs (MO&MR presentation) 
 ---
 
-### Q-peak [(Esipova 2024)](https://lingbuzz.net/lingbuzz/008389)
+### Q-peak [(Esipova 2024)](https://lingbuzz.net/lingbuzz/008389) {#q-peak}
 #### information-seeking positive intonPQs
 
 "Did you pour me mulled wine?"
@@ -27,7 +27,7 @@ class="img-fluid rounded z-depth-1" %}
 {% include audio.liquid path="assets/audio/NCIs_presentation/audios/5_2_explGlint.wav" controls=true %}
 
 ### NCIs in intonPQs
-#### 2 Q-peaks, example from Ru corpus
+#### 2 Q-peaks, Ru corpus example
 "Well, have they ever wanted to go back?"
 
 {% include figure.html 
@@ -36,7 +36,7 @@ title="Well, have they ever wanted to go back?"
 class="img-fluid rounded z-depth-1" %}
 {% include audio.liquid path="assets/audio/NCIs_presentation/audios/8_1_ni_two.wav" controls=true %}
 
-#### 1 Q-peak, example from Ru corpus
+#### 1 Q-peak, Ru corpus example
 "So none of them noticed that?"
 
 {% include figure.html
@@ -96,7 +96,7 @@ class="img-fluid rounded z-depth-1" %}
 
 {% include audio.liquid path="assets/audio/NCIs_presentation/audios/20_1_cut_nibud_pos1.wav" controls=true %}
 
-#### positive PQs + nibud, corpus example
+#### positive PQs + nibud, Ru corpus example
 "Do you still have any friends in Russia?"
 
 {% include figure.html
@@ -117,7 +117,7 @@ class="img-fluid rounded z-depth-1" %}
 
 {% include audio.liquid path="assets/audio/NCIs_presentation/audios/21_1_cut_nibud_outer1.wav" controls=true %}
 
-#### negative PQs + nibud, corpus example
+#### negative PQs + nibud, Ru corpus example
 "Do you still have any friends in Russia?"
 
 {% include figure.html
