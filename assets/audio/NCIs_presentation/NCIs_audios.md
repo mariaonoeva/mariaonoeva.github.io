@@ -25,7 +25,7 @@ class="img-fluid rounded z-depth-1" %}
 path="assets/audio/NCIs_presentation/pics/mulled-wineEXPL.png" 
 title="Did you pour me mulled wine?/You poured me mulled wine?" 
 class="img-fluid rounded z-depth-1" %}
-{% include audio.liquid path="assets/audio/NCIs_presentation/audios/5_1_explGlint.wav" controls=true %}
+{% include audio.liquid path="assets/audio/NCIs_presentation/audios/5_2_explGlint.wav" controls=true %}
 
 ### NCIs in intonPQs: 2 Q-peaks, example from Ru corpus
 "Well, have they ever wanted to go back?"
@@ -43,4 +43,7 @@ class="img-fluid rounded z-depth-1" %}
 path="assets/audio/NCIs_presentation/pics/11_kanat_048.pdf"
 title="So none of them noticed that?"
 class="img-fluid rounded z-depth-1" %}
+
+<embed src="assets/audio/NCIs_presentation/pics/11_kanat_048.pdf" width="600" height="800" type="application/pdf">
+
 {% include audio.liquid path="assets/audio/NCIs_presentation/audios/8_2_11_kanat_048.wav" controls=true %}
