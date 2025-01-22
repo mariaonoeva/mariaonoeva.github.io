@@ -107,6 +107,9 @@ zotero_username: # your zotero username
 
 contact_note: >
   If you need to reach me, just drop an email! 
+  
+# CV 
+cv: "assets/pdf/Academ_CV_MO.pdf"
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------

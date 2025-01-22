@@ -5,7 +5,7 @@ permalink: /NCIs-presen/
 description: Audios for NCIs in PQs (MO&MR presentation) 
 ---
 
-### Q-peak [(Esipova 2024)](https://lingbuzz.net/lingbuzz/008389)
+### Q-peak [(Esipova 2024)](https://lingbuzz.net/lingbuzz/008389) 
 #### information-seeking positive intonPQs
 
 "Did you pour me mulled wine?"
