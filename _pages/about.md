@@ -29,7 +29,7 @@ Maria, Маша, Maruška, ~~Mariia~~\*
 
 I'm a :sparkles: fourth :sparkles: year PhD student in General Linguistics at <a href='https://ling.ff.cuni.cz/en/'>Charles University</a> and a visiting researcher at <a href='https://www.slawistik.hu-berlin.de/en/home'>Humboldt University of Berlin</a>. I explore semantics and pragmatics of polar questions with the main focus on Russian, Czech and other Slavic languages. My research is a part of the [QueSlav project](https://www.radeksimik.eu/minilab.html). The person who navigates me through my studies (aka my advisor) is [Radek Šimík](https://www.radeksimik.eu/personalia.html).     
 
-From August 2024 to October 2025, I'll be in Berlin thanks to a [DAAD](https://www.daad.de/en/) scholarship :v:
+From August 2024 to October 2026, I'll be in Berlin thanks to a [DAAD](https://www.daad.de/en/) scholarship and the [CRC 1412 Register fellowship](https://sfb1412.hu-berlin.de/) :v:
 
 \**Mariia* is an 'official' spelling of my name on legal documents (diplomas, passport and so on). I don't like it whatsoever, so I use *Maria* in publications. More about transliteration [here](https://en.wikipedia.org/wiki/Romanization_of_Russian#Transliteration_of_names_on_Russian_passports). 
 
