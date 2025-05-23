@@ -4,6 +4,6 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 4
-cv_pdf: assets/pdf/Academ_CV_MO.pdf
+cv_pdf: assets/pdf/Academ_CV_MO_new.pdf
 description: 
 ---
