@@ -27,7 +27,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 Maria, Маша, Maruška, ~~Mariia~~\*
 
-:point_left: [Audios for MO&MR Experiment PQs presentations](/Experiment-presen/) :point_right:
+:point_right: [Audios for MO&MR Experiment PQs presentations](/Experiment-presen/) :point_left:
 
 I'm a :sparkles: fourth :sparkles: year PhD student in General Linguistics at <a href='https://ling.ff.cuni.cz/en/'>Charles University</a> and a visiting researcher at <a href='https://www.slawistik.hu-berlin.de/en/home'>Humboldt University of Berlin</a>. 
 
